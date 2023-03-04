@@ -4,14 +4,15 @@
     "\\app",
     "\\app\\Http",
     "\\app\\Http\\Controllers",
-    "\\app\\Http\\Controllers\\Admin",
+    "\\app\\Http\\Controllers\\User",
     "\\resources",
     "\\resources\\views",
     "\\resources\\views\\User",
+    "\\resources\\views\\User\\Auth",
     "\\resources\\views\\User\\Page",
-    "\\resources\\views\\User\\Page\\Checkout",
-    "\\resources\\views\\User\\Page\\Home"
+    "\\resources\\views\\User\\Page\\Bayar",
+    "\\resources\\views\\User\\Page\\Detail"
   ],
-  "SelectedNode": "\\resources\\views\\User\\Page\\Home\\Home.blade.php",
+  "SelectedNode": "\\resources\\views\\User\\Page\\Bayar\\Bayar.blade.php",
   "PreviewInSolutionExplorer": false
 }
