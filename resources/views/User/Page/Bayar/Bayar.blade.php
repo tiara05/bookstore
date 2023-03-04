@@ -31,7 +31,7 @@
                             <div class="flex-grow-1">
                                 <h5 class="d-block mb-0 mt-1">Bank Mandiri</h5>
                                 <h6 class="d-block mt-3">No Rekening : </h6>
-                                <p class="d-block" style="font-size: 14px; color: red;">896 0819 1017 5601 <b>( a.n NelayanKu ) </b></p>        
+                                <p class="d-block" style="font-size: 14px; color: red;">896 0819 1017 5601 <b>( a.n Tiara Bookstore ) </b></p>        
                                 
                             </div>
                         </div>

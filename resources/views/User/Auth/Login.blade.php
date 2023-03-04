@@ -9,7 +9,7 @@
       content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0"
     />
 
-    <title>Login - Admin | NelayanKu</title>
+    <title>Login - Bookstore</title>
 
     <meta name="description" content="" />
 
@@ -36,7 +36,7 @@
                     <!-- Logo -->
                     <div class="app-brand justify-content-center text-center">
                       <a href="index.html" class="app-brand-link gap-2 ">
-                        <h3 class="app-brand-text demo text-body fw-bolder ">PROPERTI</h3>
+                        <h3 class="app-brand-text demo text-body fw-bolder ">TIARA'S BOOKSTORE'</h3>
                       </a>
                     </div>
                     <!-- /Logo -->

@@ -10,7 +10,7 @@
         <div class="d-flex justify-content-between align-items-center">
           <h2>Produk Details</h2>
           <ol>
-            <li><a href="">Properti</a></li>
+            <li><a href="">Bookstore</a></li>
             <li>Produk Details</li>
           </ol>
         </div>
@@ -37,8 +37,8 @@
                         
                             <h2><b>{{$produk->nama_produk}}</b></h2>
                             <br>
-                            <h4 style="color:red">@currency($produk->harga) / Unit</h4>
-                            <h6 style="margin-top: 5%"><b>Deskripsi Rumah :</b></h6>
+                            <h4 style="color:red">@currency($produk->harga) / Pcs</h4>
+                            <h6 style="margin-top: 5%"><b>Deskripsi Produk :</b></h6>
                             <p>{{$produk->detail_produk}}</p>
                             <h6 style="margin-top: 5%;margin-bottom: 2%"><b>Jumlah Pesanan / Unit :</b></h6>
                         <form class="form form-horizontal" action="{{ route('checkout.checkout', $produk->id) }}" method="POST" enctype="multipart/form-data">

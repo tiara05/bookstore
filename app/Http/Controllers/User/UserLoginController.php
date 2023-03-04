@@ -36,6 +36,6 @@ class UserLoginController extends Controller
     {
         $user = Auth::logout();
         $request->session()->forget('user', $user);
-        return Redirect(route('marketplace.index'));
+        return Redirect(route('landing.index'));
     }
 }
